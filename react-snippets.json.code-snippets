@@ -2,8 +2,8 @@
 	"Create new component": {
 		"prefix": "newcomponent",
 		"body": [
-			"import styled from '@emotion/styled';",
 			"import React from 'react';",
+			"import styled from '@emotion/styled';",
 			"",
 			"const Styled = {",
 			"    ${1:componentName}: styled.div``",
